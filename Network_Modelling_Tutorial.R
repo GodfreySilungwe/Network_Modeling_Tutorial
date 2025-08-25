@@ -1,4 +1,4 @@
-###### The following exercise #### god
+###### The following exercise #### godfrey
 ##Network Analysis and SIT Epidemic Model##
 
 ####Project Description####
@@ -179,5 +179,6 @@ for(i in 1:6) {
 }
 
 ##Exercise 3.1. - Who are the top 6 most connected individuals based on betweenness? Do they differ from those based on degree centrality? Comment on whether they are different or the same - why?
+
 
 
